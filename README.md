@@ -1,2 +1,1 @@
-# vpw
-Code-snippets for VPW
+Wat code-snippits en info voor deelnemers van de Vlaamse Programmeerwedstrijd
